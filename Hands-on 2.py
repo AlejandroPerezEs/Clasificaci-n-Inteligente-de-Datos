@@ -4,7 +4,7 @@
 
 class RegresionLineal:
     def __init__(self):
-        self.y = [72, 4, 6, 8, 10, 12, 14, 16, 18] # Valores de y
+        self.y = [2, 4, 6, 8, 10, 12, 14, 16, 18] # Valores de y
         self.x = [1, 2, 3, 4, 5, 6, 7, 8, 9] # Valores de x
         self.b0 = None  # Beta 0
         self.b1 = None  # Beta 1
